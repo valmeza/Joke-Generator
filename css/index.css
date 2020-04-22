@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.header {
+    text-align: center;
+    color: #fff;
+    padding: 30px;
+    background-color: brown;
+}
+
+.container {
+    margin-top: 10em;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid brown;
+    height: 140px;
+    width: 500px;
+    padding: 40px;
+}
+
+.generate {
+    margin-left: 43em;
+    margin-top: 3em;
+}
